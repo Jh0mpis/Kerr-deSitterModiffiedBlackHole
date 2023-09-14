@@ -1,1 +1,6 @@
-# Kerr-deSitterModiffiedBlackHole
+# Estructura y termodinámica de un agujero negro de Kerr-de Sitter con parámetros de aceleración y deformación
+
+---
+<p align="justify"> 
+Proyecto para la materia ``Introducción a la investigación teórica'' aplicando el algorítmo de Janis-Newman a una solución estática de agujero negro. En este proyecto se tomó una solución de agujero negro con parámetro de aceleración y deformación de tipo de Sitter estático. Aplicando el algorítmo de Janis-Newman a la solución mencionada anteriormente se encontró un agujero negro rotante. Además, se compararon los resultados de la estructura (horizonte de eventos, radio ISCO, radio de órbita de fotones, potencial efectivo y ergosfera) y la termodinámica (temperatura de Hawking y entropía) de un agujero negro de Kerr respecto de los resultados obtenidos de la métrica de Kerr-de Sitter modificada añadiendo parámetros tructura y termodinámica de agujeros negros en métricas fenomenológicas  aceleración y deformación). Aplicando métodos numéricos, se encontró la existencia de horizontes de eventos (que conllevan la existencia de agujeros negros superrotantes $a>M$), cosmológicos y de Killing esperables en una solución de agujero negro de tipo Kerr-de Sitter, la existencia de ergosfera y orbitas estables. Finalmente, se estudiaron los aspectos termodinámicos del agujero negro, tales como, temperatura de Hawking y entropía.
+</p>
